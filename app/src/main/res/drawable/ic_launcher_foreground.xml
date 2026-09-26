@@ -1,0 +1,14 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <!-- Shield Outer -->
+    <path
+        android:fillColor="#10B981"
+        android:pathData="M54,20 L80,30 V52 C80,68 69,82 54,88 C39,82 28,68 28,52 V30 Z" />
+    <!-- Inner Cross/Lock Emblem -->
+    <path
+        android:fillColor="#FFFFFF"
+        android:pathData="M50,38 H58 V48 H68 V56 H58 V66 H50 V56 H40 V48 H50 Z" />
+</vector>

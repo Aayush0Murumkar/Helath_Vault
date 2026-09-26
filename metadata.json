@@ -1,0 +1,6 @@
+{
+  "name": "Health Vault",
+  "description": "Zero-Knowledge Security & Privacy-First Medical Record Vault",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
